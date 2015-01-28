@@ -1,2 +1,2 @@
 # lect1
-A project used for testing during the lecture
+A project to be used for testing during the lecture
